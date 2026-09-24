@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/ping")
     public String ping() {
-        return "咚咚锵";
+        return "咚咚锵997";
     }
 }
